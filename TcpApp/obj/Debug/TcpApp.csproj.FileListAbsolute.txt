@@ -1,0 +1,11 @@
+C:\Users\drago\source\repos\TcpApp\bin\Debug\TcpApp.exe.config
+C:\Users\drago\source\repos\TcpApp\bin\Debug\TcpApp.exe
+C:\Users\drago\source\repos\TcpApp\bin\Debug\TcpApp.pdb
+C:\Users\drago\source\repos\TcpApp\obj\Debug\TcpApp.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\TcpApp\obj\Debug\TcpApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\drago\source\repos\TcpApp\obj\Debug\TcpApp.Form1.resources
+C:\Users\drago\source\repos\TcpApp\obj\Debug\TcpApp.Properties.Resources.resources
+C:\Users\drago\source\repos\TcpApp\obj\Debug\TcpApp.csproj.GenerateResource.cache
+C:\Users\drago\source\repos\TcpApp\obj\Debug\TcpApp.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\TcpApp\obj\Debug\TcpApp.exe
+C:\Users\drago\source\repos\TcpApp\obj\Debug\TcpApp.pdb

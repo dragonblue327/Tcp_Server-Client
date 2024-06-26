@@ -1,0 +1,11 @@
+C:\Users\drago\source\repos\Client\bin\Debug\Client.exe.config
+C:\Users\drago\source\repos\Client\bin\Debug\Client.exe
+C:\Users\drago\source\repos\Client\bin\Debug\Client.pdb
+C:\Users\drago\source\repos\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\drago\source\repos\Client\obj\Debug\Client.Form1.resources
+C:\Users\drago\source\repos\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\drago\source\repos\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\drago\source\repos\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\Client\obj\Debug\Client.exe
+C:\Users\drago\source\repos\Client\obj\Debug\Client.pdb
